@@ -3,7 +3,7 @@ class Piece
 
     def initialize
 
-        
+
     end
 
 
