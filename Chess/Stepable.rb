@@ -1,3 +1,3 @@
 module Stepable.rb
-    
+
 end
