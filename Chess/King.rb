@@ -10,6 +10,8 @@ class King < Piece
     end
 
     def move_diffs
-        possible = [[0,1], [0,-1], [1,1] [1,-1], [-1,1], [-1,-1], [1,0], [-1,0]]
+        possible = [[0,1], [0,-1], [1,1], [1,-1], [-1,1], [-1,-1], [1,0], [-1,0]]
+        return possible
     end
+
 end
